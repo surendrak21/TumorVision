@@ -50,11 +50,11 @@ All images are preprocessed (resized & normalized) before being used for trainin
 └── 📁 data/
     ├── yes/
     └── no/
+```
 
+---
 
-
-
-🏁 How to Run
+## How to Run
 Clone the repo
 ```
 git clone https://github.com/surendrak21/TumorVision.git
@@ -65,6 +65,32 @@ Navigate to project directory
  Install dependencies
  ``` pip install -r requirements.txt ``` 
 
+
+---
+
+## 📸 Tumor Classes 
+
+
+### 📝 glioma
+![glioma](images\glioma\Te-gl_0010.jpg)
+![glioma](images\glioma\Tr-gl_0011.jpg)
+
+### 🔐 meningioma
+![meningioma](images\meningioma\Tr-me_0010.jpg)
+![meningioma](images\meningioma\Tr-me_0011.jpg)
+
+
+### 📚 pituitary
+![pituitary](images\pituitary\Tr-pi_0010.jpg)
+![pituitary](images\pituitary\Tr-pi_0011.jpg)
+
+### 🗓️ notumor
+![notumor](images\notumor\Tr-no_0010.jpg)
+![notumor](images\notumor\Tr-no_0011.jpg)
+
+---
+
+
  💡 Future Improvements
 Add multiclass classification for tumor types
 
@@ -74,5 +100,4 @@ Integrate Flask app for real-time prediction
 
 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
-
-
+---
