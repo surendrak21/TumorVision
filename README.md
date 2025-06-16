@@ -1,6 +1,5 @@
-# 🧠 TumorVision – Brain Tumor Classification using Deep Learning
+# 🧠 TumorVision – Brain Tumor Classification using Deep Learning (CNN)
 
-![TumorVision Banner](https://raw.githubusercontent.com/surendrak21/TumorVision/main/assets/banner.webp)
 
 ## 📌 Project Overview
 
