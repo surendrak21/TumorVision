@@ -14,9 +14,7 @@ It uses a Convolutional Neural Network (CNN) for automated brain tumor detection
 
 You can view the model's live predictions using the Streamlit app:
 
-🔗 [Open Live Demo](http://172.23.8.91:8501)
-
-⚠️ *Accessible only within the local network.*
+🔗 [Open Live Demo](https://tumor-vision.streamlit.app/)
 
 ---
 
