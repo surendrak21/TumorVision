@@ -10,9 +10,14 @@
 It uses a Convolutional Neural Network (CNN) for automated brain tumor detection, aiming to assist doctors and radiologists with faster and more accurate diagnoses.
 
 ---
-## Model Live Working
-You can now view your tumor class
-  Network URL: http://172.23.8.91:8501
+## 🔴 Live Demo (Local)
+
+You can view the model's live predictions using the Streamlit app:
+
+🔗 [Open Live Demo](http://172.23.8.91:8501)
+
+⚠️ *Accessible only within the local network.*
+
 ---
 
 ## 🧪 Tech Stack
