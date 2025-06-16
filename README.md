@@ -72,21 +72,21 @@ Navigate to project directory
 
 
 ### 📝 glioma
-![glioma](images\glioma\Te-gl_0010.jpg)
-![glioma](images\glioma\Tr-gl_0011.jpg)
+![glioma](images/glioma/Te-gl_0010.jpg)
+![glioma](images/glioma/Tr-gl_0011.jpg)
 
 ### 🔐 meningioma
-![meningioma](images\meningioma\Tr-me_0010.jpg)
-![meningioma](images\meningioma\Tr-me_0011.jpg)
+![meningioma](images/meningioma/Tr-me_0010.jpg)
+![meningioma](images/meningioma/Tr-me_0011.jpg)
 
 
 ### 📚 pituitary
-![pituitary](images\pituitary\Tr-pi_0010.jpg)
-![pituitary](images\pituitary\Tr-pi_0011.jpg)
+![pituitary](images/pituitary/Tr-pi_0010.jpg)
+![pituitary](images/pituitary/Tr-pi_0011.jpg)
 
 ### 🗓️ notumor
-![notumor](images\notumor\Tr-no_0010.jpg)
-![notumor](images\notumor\Tr-no_0011.jpg)
+![notumor](images/notumor/Tr-no_0010.jpg)
+![notumor](images/notumor/Tr-no_0011.jpg)
 
 ---
 
