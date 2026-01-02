@@ -53,5 +53,5 @@ if uploaded_file:
         probs = torch.softmax(outputs, dim=1)
         confidence, pred = torch.max(probs, 1)
 
-    st.success(f"Prediction: **{class_names[pred.item()]}**")
-    st.info(f"Confidence: **{confidence.item()*100:.2f}%**")
+    st.success(f"Prediction : **{class_names[pred.item()]}**")
+    st.info(f"Confidence : **{confidence.item()*100:.2f}%**")
